@@ -1,0 +1,7 @@
+OUR NUMBER 5544.31
+ERCOT NUMBER 5749.76
+DIF 205.45
+ERCOT charge us 3.7% more real time energy compare to the one we calculated without DLF 
+
+LZ_WEST(btc mining facility) 5500.77
+LZ_HOUSTON 43.54
